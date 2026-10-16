@@ -1,8 +1,9 @@
----
+technical--
 manufacturer: 
     - xiaomi
 
----
+-android
+--
 
 ### App pinning / App locking
 
